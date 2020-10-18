@@ -49,7 +49,8 @@ As ferramentas utilizadas para desenvolver o projeto:
 -  [Figma](https://www.figma.com/ui-design-tool/)
 
 <h2 id="milha-extra">Desafio Milha Extra 🥳</h2>
-<p>Minha milha extra para a aplicação Happy, desenvolvida na Semana Next Level Week, é uma tela de sucesso. Quando o usuário finalizar o cadastro da sua instituição, ele será redirecionado para essa página.</p>
+<p align="center">Minha milha extra para a aplicação Happy, desenvolvida na Semana Next Level Week, é uma tela de sucesso. Quando o usuário finalizar o cadastro da sua instituição, ele será redirecionado para essa página.
 <img src="./public/images/print2.png" alt="Web" height="80%" width="80%"/>
+ </p>
 
 😍 Criado por Alairton Junior. 
