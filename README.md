@@ -3,7 +3,7 @@
 <h3 align="center">💕 Leve felicidade para o mundo</h3>
 
 <p align="center">
-  <a href="#about">Sobre</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#techs">Teconologias</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#tools">Ferramentas</a>  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#milha-extra">  Milha Extra</a>
+  <a href="#about">Sobre</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#techs">Tecnologias</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#tools">Ferramentas</a>  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="#milha-extra">  Milha Extra</a>
 </p>
 
 <br>
